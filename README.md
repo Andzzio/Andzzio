@@ -1,13 +1,12 @@
 # Hi there! 👋
 
-### Transforming ideas into cross-platform apps. Building with Dart (Flutter) and Python (FastAPI/SQLModel).
+### Transforming ideas into cross-platform apps. Building with Dart (Flutter) and Firebase.
 
 ---
 
 ### 🧐 About Me
 
 - 🔭 I’m currently working on **Mobile Apps with Flutter**.
-- 🌱 I’m currently learning deeper concepts of **Backend Architecture & APIs**.
 - 👯 I’m looking to collaborate on **Open Source Flutter projects**.
 - ⚡ **Fun fact:** I love connecting beautiful UIs with robust logic.
 
@@ -22,9 +21,7 @@
 
 **Backend & Data**
 <br>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-<img src="https://img.shields.io/badge/SQLModel-000000?style=for-the-badge&logo=python&logoColor=white" alt="SQLModel" />
+
 
 **Tools & Environment**
 <br>
