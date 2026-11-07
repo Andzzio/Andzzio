@@ -1,38 +1,41 @@
-# Hi there! 👋
+<div align="center">
 
-### Transforming ideas into cross-platform apps. Building with Dart (Flutter) and Firebase.
+  <!-- Animación de texto estilo máquina de escribir -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Andzzio;Building+tools+I+want+to+exist" alt="Typing SVG" />
+  </a>
 
----
+  <hr/>
 
-### 🧐 About Me
+  <p>Hi, I'm <b>Andzzio</b>, a Software Developer from Peru 🇵🇪</p>
 
-- 🔭 I’m currently working on **Mobile Apps with Flutter**.
-- 👯 I’m looking to collaborate on **Open Source Flutter projects**.
-- ⚡ **Fun fact:** I love connecting beautiful UIs with robust logic.
+  <p>
+    🦀 I love using <b>Rust</b> to build whatever comes to mind<br/>
+    🐹 I enjoy <b>Go</b> for general development and building <b>Backends</b><br/>
+    📱 I use <b>Flutter & Dart</b> whenever I want to attach an app to anything<br/>
+    🐧 Huge fan of <b>Linux</b>, Neovim, and learning by writing code<br/>
+    📫 How to reach me: <a href="mailto:andzzio924@gmail.com">andzzio924@gmail.com</a>
+  </p>
 
----
+  <hr/>
 
-### 🛠️ Tech Stack
+  <h3>🔥 Languages, Frameworks & Tools 🔥</h3>
 
-**Mobile Development**
-<br>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <br/>
 
-**Backend & Data**
-<br>
+  <p>
+    <img src="https://skillicons.dev/icons?i=rust,go,dart,flutter,linux,neovim,git&perline=4" alt="Tech Stack" />
+  </p>
 
+  <br/>
+  <hr/>
 
-**Tools & Environment**
-<br>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <h3>⚡ Stats ⚡</h3>
 
----
+  <br/>
 
-### 📊 GitHub Stats
+  <p>
+    <img src="https://streak-stats.demolab.com?user=Andzzio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andzzio&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
+</div>
